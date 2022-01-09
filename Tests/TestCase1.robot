@@ -14,7 +14,7 @@ ${password} =    secret_sauce
 
 *** Test Cases ***
 Test Case to try If-Else in Robot Framewotk
-    [Documentation]    this is first test
+    [Documentation]    this is first test case
     [Tags]    Smoke
     input text    id:user-name    ${User}
     input text    id:password    ${password}
